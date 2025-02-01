@@ -78,4 +78,9 @@ pip install onnxruntime-gpu
 - **ONNX**: The format in which the model is saved for face swapping.
 - **OpenCV**: Used for image processing and displaying the result.
 
+## **Testing the Api using Postman**
+
+![Screenshot 2025-02-01 163538](https://github.com/user-attachments/assets/bdbf2c2e-ebfc-450f-bbcb-90b330cfd742)
+
+
 
